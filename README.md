@@ -1,4 +1,4 @@
-# Python-3-al-completo-desde-cero
+# python-3-al-completo-desde-cero
 Ejercicios y código realizados en el curso de Udemy: Curso Maestro de Python 3: Aprende Desde 0
 
 Curso finalizado. 16/2/2017
