@@ -1,10 +1,10 @@
 # python-3-al-completo-desde-cero
-Ejercicios y código realizados en el curso de Udemy: Curso Maestro de Python 3: Aprende Desde 0
+Ejercicios y código realizados en el curso de Udemy: [Curso Maestro de Python 3: Aprende Desde 0](https://www.udemy.com/python-3-al-completo-desde-cero)
 
 Curso finalizado. 16/2/2017
 
 
-Exercises and code for the Udemy course: Curso Maestro de Python 3: Aprende Desde 0
+Exercises and code for the Udemy course: [Curso Maestro de Python 3: Aprende Desde 0](https://www.udemy.com/python-3-al-completo-desde-cero)
 
 Course completed. 2/16/2017
 
