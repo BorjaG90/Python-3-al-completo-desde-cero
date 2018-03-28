@@ -8,4 +8,6 @@ Exercises and code for the Udemy course: [Curso Maestro de Python 3: Aprende Des
 
 Course completed. 2/16/2017
 
-![Certificado](https://raw.githubusercontent.com/BorjaG90/python-course/master/UC-9BR15LUY.jpg)
+[Certificado](https://ude.my/UC-9BR15LUY)
+
+![Diploma](https://raw.githubusercontent.com/BorjaG90/python-course/master/UC-9BR15LUY.jpg)
